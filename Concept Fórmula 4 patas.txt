@@ -1,0 +1,9 @@
+Nome do jogo: formula 4 patas
+Gênero : Corrida
+Estlio do jogo : Bobo e engraçado, a palavra mais adequada para descrever é goofy, tendo inspirações em um estilo cartoon.Ele é low poly
+Plataformas : Computador
+Público-alvo : Familias,em especial 
+Acessibilidade: Daltonismo, Dificuldade (IA), Assistente de direção
+Idiomas: Pt-Br
+Resumo: O jogo é um jogo multiplayer local para até duas pessoas, sem história onde você e um amigo controlam cachorros pilotos de kart.
+Paleta de Cores: cores mais vibrantes como amarelo para os botões e elementos  entretanto cores claras/pastel pro fundo.
